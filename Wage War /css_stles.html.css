@@ -1,0 +1,13 @@
+@charset "UTF-8";
+body p {
+}
+#main_menu {
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#main_menu ul li {
+	display: inline;
+	padding-left: 50px;
+	padding-right: 50px;
+}
